@@ -8,7 +8,7 @@ Blinks blue LED on all ESP8266 boads.
 
 Connect to Wifi and prints out current IP
 
-## [Wifi with HTTP Server](02_wifi_webserver.js) - 03_wifi_webserver.js
+## [Wifi with HTTP Server](03_wifi_webserver.js) - 03_wifi_webserver.js
 
 Connect to Wifi, starts HTTP server and displays access points. Also has simple HTML generator code.
 
